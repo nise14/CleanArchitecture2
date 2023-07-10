@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NorthWind.Sales.BusinessObjects/1.0.0": {
+        "dependencies": {
+          "NorthWind.Entities": "1.0.0"
+        },
+        "runtime": {
+          "NorthWind.Sales.BusinessObjects.dll": {}
+        }
+      },
+      "NorthWind.Entities/1.0.0": {
+        "runtime": {
+          "NorthWind.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NorthWind.Sales.BusinessObjects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NorthWind.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

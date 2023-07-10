@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Owz3dnYvp2bd3Oxn6cueGOeESDshDO5jIbUzncp9ItxQ8946r4uCz2yGNfwQlV9XpeGL4FOWmfb5xqK6vgFZaA==",
+  "success": true,
+  "projectFilePath": "C:\\Repository\\CleanArchitecture\\3.InterfaceAdapters\\Controllers\\NorthWnid.Sales.Controllers\\NorthWnid.Sales.Controllers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/lJadVL/cvTh+pY9h5mnjUXKI/nnhchpCOlTVWuh6zq3n5LyGkj7qGvuH559uGKPftWxhkWczJ8TdN+pKkU9Zg==",
+  "success": true,
+  "projectFilePath": "C:\\Repository\\CleanArchitecture\\3.InterfaceAdapters\\Presenters\\NorthWin.Sales.Presenters\\NorthWin.Sales.Presenters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

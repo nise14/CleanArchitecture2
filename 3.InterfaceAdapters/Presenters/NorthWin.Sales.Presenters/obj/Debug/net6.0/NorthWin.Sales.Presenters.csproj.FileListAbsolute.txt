@@ -1,0 +1,17 @@
+C:\Repository\CleanArchitecture\3.InterfaceAdapters\Presenters\NorthWin.Sales.Presenters\bin\Debug\net6.0\NorthWin.Sales.Presenters.deps.json
+C:\Repository\CleanArchitecture\3.InterfaceAdapters\Presenters\NorthWin.Sales.Presenters\bin\Debug\net6.0\NorthWin.Sales.Presenters.dll
+C:\Repository\CleanArchitecture\3.InterfaceAdapters\Presenters\NorthWin.Sales.Presenters\bin\Debug\net6.0\NorthWin.Sales.Presenters.pdb
+C:\Repository\CleanArchitecture\3.InterfaceAdapters\Presenters\NorthWin.Sales.Presenters\obj\Debug\net6.0\NorthWin.Sales.Presenters.csproj.AssemblyReference.cache
+C:\Repository\CleanArchitecture\3.InterfaceAdapters\Presenters\NorthWin.Sales.Presenters\obj\Debug\net6.0\NorthWin.Sales.Presenters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\CleanArchitecture\3.InterfaceAdapters\Presenters\NorthWin.Sales.Presenters\obj\Debug\net6.0\NorthWin.Sales.Presenters.AssemblyInfoInputs.cache
+C:\Repository\CleanArchitecture\3.InterfaceAdapters\Presenters\NorthWin.Sales.Presenters\obj\Debug\net6.0\NorthWin.Sales.Presenters.AssemblyInfo.cs
+C:\Repository\CleanArchitecture\3.InterfaceAdapters\Presenters\NorthWin.Sales.Presenters\obj\Debug\net6.0\NorthWin.Sales.Presenters.csproj.CoreCompileInputs.cache
+C:\Repository\CleanArchitecture\3.InterfaceAdapters\Presenters\NorthWin.Sales.Presenters\obj\Debug\net6.0\NorthWin.Sales.Presenters.dll
+C:\Repository\CleanArchitecture\3.InterfaceAdapters\Presenters\NorthWin.Sales.Presenters\obj\Debug\net6.0\refint\NorthWin.Sales.Presenters.dll
+C:\Repository\CleanArchitecture\3.InterfaceAdapters\Presenters\NorthWin.Sales.Presenters\obj\Debug\net6.0\NorthWin.Sales.Presenters.pdb
+C:\Repository\CleanArchitecture\3.InterfaceAdapters\Presenters\NorthWin.Sales.Presenters\obj\Debug\net6.0\ref\NorthWin.Sales.Presenters.dll
+C:\Repository\CleanArchitecture\3.InterfaceAdapters\Presenters\NorthWin.Sales.Presenters\bin\Debug\net6.0\NorthWind.Entities.dll
+C:\Repository\CleanArchitecture\3.InterfaceAdapters\Presenters\NorthWin.Sales.Presenters\bin\Debug\net6.0\NorthWind.Sales.BusinessObjects.dll
+C:\Repository\CleanArchitecture\3.InterfaceAdapters\Presenters\NorthWin.Sales.Presenters\bin\Debug\net6.0\NorthWind.Sales.BusinessObjects.pdb
+C:\Repository\CleanArchitecture\3.InterfaceAdapters\Presenters\NorthWin.Sales.Presenters\bin\Debug\net6.0\NorthWind.Entities.pdb
+C:\Repository\CleanArchitecture\3.InterfaceAdapters\Presenters\NorthWin.Sales.Presenters\obj\Debug\net6.0\NorthWin.Sales.Presenters.csproj.CopyComplete

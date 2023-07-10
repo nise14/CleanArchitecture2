@@ -1,0 +1,17 @@
+C:\Repository\CleanArchitecture\3.InterfaceAdapters\Controllers\NorthWnid.Sales.Controllers\bin\Debug\net6.0\NorthWnid.Sales.Controllers.deps.json
+C:\Repository\CleanArchitecture\3.InterfaceAdapters\Controllers\NorthWnid.Sales.Controllers\bin\Debug\net6.0\NorthWnid.Sales.Controllers.dll
+C:\Repository\CleanArchitecture\3.InterfaceAdapters\Controllers\NorthWnid.Sales.Controllers\bin\Debug\net6.0\NorthWnid.Sales.Controllers.pdb
+C:\Repository\CleanArchitecture\3.InterfaceAdapters\Controllers\NorthWnid.Sales.Controllers\bin\Debug\net6.0\NorthWind.Entities.dll
+C:\Repository\CleanArchitecture\3.InterfaceAdapters\Controllers\NorthWnid.Sales.Controllers\bin\Debug\net6.0\NorthWind.Sales.BusinessObjects.dll
+C:\Repository\CleanArchitecture\3.InterfaceAdapters\Controllers\NorthWnid.Sales.Controllers\bin\Debug\net6.0\NorthWind.Sales.BusinessObjects.pdb
+C:\Repository\CleanArchitecture\3.InterfaceAdapters\Controllers\NorthWnid.Sales.Controllers\bin\Debug\net6.0\NorthWind.Entities.pdb
+C:\Repository\CleanArchitecture\3.InterfaceAdapters\Controllers\NorthWnid.Sales.Controllers\obj\Debug\net6.0\NorthWnid.Sales.Controllers.csproj.AssemblyReference.cache
+C:\Repository\CleanArchitecture\3.InterfaceAdapters\Controllers\NorthWnid.Sales.Controllers\obj\Debug\net6.0\NorthWnid.Sales.Controllers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\CleanArchitecture\3.InterfaceAdapters\Controllers\NorthWnid.Sales.Controllers\obj\Debug\net6.0\NorthWnid.Sales.Controllers.AssemblyInfoInputs.cache
+C:\Repository\CleanArchitecture\3.InterfaceAdapters\Controllers\NorthWnid.Sales.Controllers\obj\Debug\net6.0\NorthWnid.Sales.Controllers.AssemblyInfo.cs
+C:\Repository\CleanArchitecture\3.InterfaceAdapters\Controllers\NorthWnid.Sales.Controllers\obj\Debug\net6.0\NorthWnid.Sales.Controllers.csproj.CoreCompileInputs.cache
+C:\Repository\CleanArchitecture\3.InterfaceAdapters\Controllers\NorthWnid.Sales.Controllers\obj\Debug\net6.0\NorthWnid.Sales.Controllers.csproj.CopyComplete
+C:\Repository\CleanArchitecture\3.InterfaceAdapters\Controllers\NorthWnid.Sales.Controllers\obj\Debug\net6.0\NorthWnid.Sales.Controllers.dll
+C:\Repository\CleanArchitecture\3.InterfaceAdapters\Controllers\NorthWnid.Sales.Controllers\obj\Debug\net6.0\refint\NorthWnid.Sales.Controllers.dll
+C:\Repository\CleanArchitecture\3.InterfaceAdapters\Controllers\NorthWnid.Sales.Controllers\obj\Debug\net6.0\NorthWnid.Sales.Controllers.pdb
+C:\Repository\CleanArchitecture\3.InterfaceAdapters\Controllers\NorthWnid.Sales.Controllers\obj\Debug\net6.0\ref\NorthWnid.Sales.Controllers.dll

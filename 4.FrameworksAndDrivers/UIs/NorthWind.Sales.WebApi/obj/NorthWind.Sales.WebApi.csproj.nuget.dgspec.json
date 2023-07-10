@@ -1,0 +1,514 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Repository\\CleanArchitecture\\4.FrameworksAndDrivers\\UIs\\NorthWind.Sales.WebApi\\NorthWind.Sales.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Repository\\CleanArchitecture\\1.EnterpriseBusinessRules\\NorthWind.Entities\\NorthWind.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Repository\\CleanArchitecture\\1.EnterpriseBusinessRules\\NorthWind.Entities\\NorthWind.Entities.csproj",
+        "projectName": "NorthWind.Entities",
+        "projectPath": "C:\\Repository\\CleanArchitecture\\1.EnterpriseBusinessRules\\NorthWind.Entities\\NorthWind.Entities.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Repository\\CleanArchitecture\\1.EnterpriseBusinessRules\\NorthWind.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Repository\\CleanArchitecture\\2.ApplicationBusinessRules\\NorthWind.Sales.BusinessObjects\\NorthWind.Sales.BusinessObjects.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Repository\\CleanArchitecture\\2.ApplicationBusinessRules\\NorthWind.Sales.BusinessObjects\\NorthWind.Sales.BusinessObjects.csproj",
+        "projectName": "NorthWind.Sales.BusinessObjects",
+        "projectPath": "C:\\Repository\\CleanArchitecture\\2.ApplicationBusinessRules\\NorthWind.Sales.BusinessObjects\\NorthWind.Sales.BusinessObjects.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Repository\\CleanArchitecture\\2.ApplicationBusinessRules\\NorthWind.Sales.BusinessObjects\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Repository\\CleanArchitecture\\1.EnterpriseBusinessRules\\NorthWind.Entities\\NorthWind.Entities.csproj": {
+                "projectPath": "C:\\Repository\\CleanArchitecture\\1.EnterpriseBusinessRules\\NorthWind.Entities\\NorthWind.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Repository\\CleanArchitecture\\2.ApplicationBusinessRules\\NorthWind.Sales.UseCases\\NorthWind.Sales.UseCases.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Repository\\CleanArchitecture\\2.ApplicationBusinessRules\\NorthWind.Sales.UseCases\\NorthWind.Sales.UseCases.csproj",
+        "projectName": "NorthWind.Sales.UseCases",
+        "projectPath": "C:\\Repository\\CleanArchitecture\\2.ApplicationBusinessRules\\NorthWind.Sales.UseCases\\NorthWind.Sales.UseCases.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Repository\\CleanArchitecture\\2.ApplicationBusinessRules\\NorthWind.Sales.UseCases\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Repository\\CleanArchitecture\\2.ApplicationBusinessRules\\NorthWind.Sales.BusinessObjects\\NorthWind.Sales.BusinessObjects.csproj": {
+                "projectPath": "C:\\Repository\\CleanArchitecture\\2.ApplicationBusinessRules\\NorthWind.Sales.BusinessObjects\\NorthWind.Sales.BusinessObjects.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Repository\\CleanArchitecture\\3.InterfaceAdapters\\Controllers\\NorthWnid.Sales.Controllers\\NorthWnid.Sales.Controllers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Repository\\CleanArchitecture\\3.InterfaceAdapters\\Controllers\\NorthWnid.Sales.Controllers\\NorthWnid.Sales.Controllers.csproj",
+        "projectName": "NorthWnid.Sales.Controllers",
+        "projectPath": "C:\\Repository\\CleanArchitecture\\3.InterfaceAdapters\\Controllers\\NorthWnid.Sales.Controllers\\NorthWnid.Sales.Controllers.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Repository\\CleanArchitecture\\3.InterfaceAdapters\\Controllers\\NorthWnid.Sales.Controllers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Repository\\CleanArchitecture\\2.ApplicationBusinessRules\\NorthWind.Sales.BusinessObjects\\NorthWind.Sales.BusinessObjects.csproj": {
+                "projectPath": "C:\\Repository\\CleanArchitecture\\2.ApplicationBusinessRules\\NorthWind.Sales.BusinessObjects\\NorthWind.Sales.BusinessObjects.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Repository\\CleanArchitecture\\3.InterfaceAdapters\\Gateways\\Repositories\\NorthWind.EFCore.Repositories\\NorthWind.EFCore.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Repository\\CleanArchitecture\\3.InterfaceAdapters\\Gateways\\Repositories\\NorthWind.EFCore.Repositories\\NorthWind.EFCore.Repositories.csproj",
+        "projectName": "NorthWind.EFCore.Repositories",
+        "projectPath": "C:\\Repository\\CleanArchitecture\\3.InterfaceAdapters\\Gateways\\Repositories\\NorthWind.EFCore.Repositories\\NorthWind.EFCore.Repositories.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Repository\\CleanArchitecture\\3.InterfaceAdapters\\Gateways\\Repositories\\NorthWind.EFCore.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Repository\\CleanArchitecture\\2.ApplicationBusinessRules\\NorthWind.Sales.BusinessObjects\\NorthWind.Sales.BusinessObjects.csproj": {
+                "projectPath": "C:\\Repository\\CleanArchitecture\\2.ApplicationBusinessRules\\NorthWind.Sales.BusinessObjects\\NorthWind.Sales.BusinessObjects.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Repository\\CleanArchitecture\\3.InterfaceAdapters\\NorthWind.Sales.IoC\\NorthWind.Sales.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Repository\\CleanArchitecture\\3.InterfaceAdapters\\NorthWind.Sales.IoC\\NorthWind.Sales.IoC.csproj",
+        "projectName": "NorthWind.Sales.IoC",
+        "projectPath": "C:\\Repository\\CleanArchitecture\\3.InterfaceAdapters\\NorthWind.Sales.IoC\\NorthWind.Sales.IoC.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Repository\\CleanArchitecture\\3.InterfaceAdapters\\NorthWind.Sales.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Repository\\CleanArchitecture\\2.ApplicationBusinessRules\\NorthWind.Sales.UseCases\\NorthWind.Sales.UseCases.csproj": {
+                "projectPath": "C:\\Repository\\CleanArchitecture\\2.ApplicationBusinessRules\\NorthWind.Sales.UseCases\\NorthWind.Sales.UseCases.csproj"
+              },
+              "C:\\Repository\\CleanArchitecture\\3.InterfaceAdapters\\Controllers\\NorthWnid.Sales.Controllers\\NorthWnid.Sales.Controllers.csproj": {
+                "projectPath": "C:\\Repository\\CleanArchitecture\\3.InterfaceAdapters\\Controllers\\NorthWnid.Sales.Controllers\\NorthWnid.Sales.Controllers.csproj"
+              },
+              "C:\\Repository\\CleanArchitecture\\3.InterfaceAdapters\\Gateways\\Repositories\\NorthWind.EFCore.Repositories\\NorthWind.EFCore.Repositories.csproj": {
+                "projectPath": "C:\\Repository\\CleanArchitecture\\3.InterfaceAdapters\\Gateways\\Repositories\\NorthWind.EFCore.Repositories\\NorthWind.EFCore.Repositories.csproj"
+              },
+              "C:\\Repository\\CleanArchitecture\\3.InterfaceAdapters\\Presenters\\NorthWin.Sales.Presenters\\NorthWin.Sales.Presenters.csproj": {
+                "projectPath": "C:\\Repository\\CleanArchitecture\\3.InterfaceAdapters\\Presenters\\NorthWin.Sales.Presenters\\NorthWin.Sales.Presenters.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Repository\\CleanArchitecture\\3.InterfaceAdapters\\Presenters\\NorthWin.Sales.Presenters\\NorthWin.Sales.Presenters.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Repository\\CleanArchitecture\\3.InterfaceAdapters\\Presenters\\NorthWin.Sales.Presenters\\NorthWin.Sales.Presenters.csproj",
+        "projectName": "NorthWin.Sales.Presenters",
+        "projectPath": "C:\\Repository\\CleanArchitecture\\3.InterfaceAdapters\\Presenters\\NorthWin.Sales.Presenters\\NorthWin.Sales.Presenters.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Repository\\CleanArchitecture\\3.InterfaceAdapters\\Presenters\\NorthWin.Sales.Presenters\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Repository\\CleanArchitecture\\2.ApplicationBusinessRules\\NorthWind.Sales.BusinessObjects\\NorthWind.Sales.BusinessObjects.csproj": {
+                "projectPath": "C:\\Repository\\CleanArchitecture\\2.ApplicationBusinessRules\\NorthWind.Sales.BusinessObjects\\NorthWind.Sales.BusinessObjects.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Repository\\CleanArchitecture\\4.FrameworksAndDrivers\\UIs\\NorthWind.Sales.WebApi\\NorthWind.Sales.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Repository\\CleanArchitecture\\4.FrameworksAndDrivers\\UIs\\NorthWind.Sales.WebApi\\NorthWind.Sales.WebApi.csproj",
+        "projectName": "NorthWind.Sales.WebApi",
+        "projectPath": "C:\\Repository\\CleanArchitecture\\4.FrameworksAndDrivers\\UIs\\NorthWind.Sales.WebApi\\NorthWind.Sales.WebApi.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Repository\\CleanArchitecture\\4.FrameworksAndDrivers\\UIs\\NorthWind.Sales.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Repository\\CleanArchitecture\\3.InterfaceAdapters\\NorthWind.Sales.IoC\\NorthWind.Sales.IoC.csproj": {
+                "projectPath": "C:\\Repository\\CleanArchitecture\\3.InterfaceAdapters\\NorthWind.Sales.IoC\\NorthWind.Sales.IoC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
